@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/backend-tests-go-slavjqom:0d11c2e554fab2031b659dc5496ee52d77f21fc7@sha256:7e3c9086f7f5b73deed23e4960b74dee10205b5e8ec1c71cbdf940df3eb473fe
+        - image: quay.io/rhtap_qe/backend-tests-go-slavjqom:5895d3afa4a35bbbbb1a012b0bdc1b6d7b5a33d6@sha256:aa4830528ef073a8633ed05261742ec6f96e8a97741242d8b1fe2fd725f74a27
           name: container-image
